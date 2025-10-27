@@ -33,6 +33,7 @@ Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparis
 Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. bioRxiv. [[Preprint](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
 
 ### 2025
+Zheng, J., Chen, X., & Wu, H. (2025). **An EEG dataset of exploring navigation in virtual reality**. *Scientific Data*. (Accepted) [[scidb](https://doi.org/10.57760/sciencedb.23155){:target="_blank"}]
 
 Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2025). **An intracranial dissection of human escape circuits**. *Nature Communications*. [[DOI](https://doi.org/10.1038/s41467-025-60666-9){:target="_blank"}]
 
@@ -160,4 +161,5 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
 
